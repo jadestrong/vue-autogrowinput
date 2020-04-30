@@ -1,0 +1,17 @@
+{
+  "name": "vue-autogrowinput",
+  "version": "1.0.0",
+  "description": "A Vue directive for making text input fields grow and shrink dynamically while typing",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadestrong/vue-autogrowinput.git"
+  },
+  "keywords": ["Vue", "Directive", "autogrowinput"],
+  "author": "jadestrong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jadestrong/vue-autogrowinput/issues"
+  },
+  "homepage": "https://github.com/jadestrong/vue-autogrowinput#readme"
+}
