@@ -7,7 +7,11 @@
     "type": "git",
     "url": "git+https://github.com/jadestrong/vue-autogrowinput.git"
   },
-  "keywords": ["Vue", "Directive", "autogrowinput"],
+  "keywords": [
+    "Vue",
+    "Directive",
+    "autogrowinput"
+  ],
   "author": "jadestrong",
   "license": "ISC",
   "bugs": {
